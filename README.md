@@ -9,3 +9,8 @@ This is repo is not about algorithm training, and it focuses on Python Labguage 
 
 This repo is located in `~/home/ProgrammingLanguage/Python/python-relative-practice`
 
+### Update: 2019.10.18
+
+Fluent Python Learning.
+
+
